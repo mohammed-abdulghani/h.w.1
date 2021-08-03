@@ -1,0 +1,36 @@
+div{
+    float: left;
+    width: 50%;
+    display: inline;
+}
+button{
+    padding: 10px;
+    font-size: 20px;
+    position:relative;
+left: 20px;
+top: 100px;
+margin: 10px 10px 10px 10px;
+width: 150px;
+}
+#blue{
+    background-color: blue;
+    color: white;
+}
+#red{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+#green{
+    background-color: rgb(60, 255, 0);
+    color: white;
+}
+#orange{
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+p{
+    position:relative;
+    top: 100px;
+    left: 20px;
+}
